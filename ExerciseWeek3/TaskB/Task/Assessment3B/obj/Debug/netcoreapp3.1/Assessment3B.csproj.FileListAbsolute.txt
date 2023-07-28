@@ -1,0 +1,14 @@
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\bin\Debug\netcoreapp3.1\Assessment3B.exe
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\bin\Debug\netcoreapp3.1\Assessment3B.deps.json
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\bin\Debug\netcoreapp3.1\Assessment3B.runtimeconfig.json
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\bin\Debug\netcoreapp3.1\Assessment3B.runtimeconfig.dev.json
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\bin\Debug\netcoreapp3.1\Assessment3B.dll
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\bin\Debug\netcoreapp3.1\Assessment3B.pdb
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\obj\Debug\netcoreapp3.1\Assessment3B.csproj.AssemblyReference.cache
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\obj\Debug\netcoreapp3.1\Assessment3B.GeneratedMSBuildEditorConfig.editorconfig
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\obj\Debug\netcoreapp3.1\Assessment3B.AssemblyInfoInputs.cache
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\obj\Debug\netcoreapp3.1\Assessment3B.AssemblyInfo.cs
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\obj\Debug\netcoreapp3.1\Assessment3B.csproj.CoreCompileInputs.cache
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\obj\Debug\netcoreapp3.1\Assessment3B.dll
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\obj\Debug\netcoreapp3.1\Assessment3B.pdb
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskB\Assessment3B\obj\Debug\netcoreapp3.1\Assessment3B.genruntimeconfig.cache

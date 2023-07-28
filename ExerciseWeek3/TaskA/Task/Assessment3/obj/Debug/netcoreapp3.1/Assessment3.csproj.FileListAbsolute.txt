@@ -1,0 +1,42 @@
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.csproj.AssemblyReference.cache
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.GeneratedMSBuildEditorConfig.editorconfig
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.AssemblyInfoInputs.cache
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.AssemblyInfo.cs
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.csproj.CoreCompileInputs.cache
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.exe
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.deps.json
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.runtimeconfig.json
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.runtimeconfig.dev.json
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.dll
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.pdb
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.dll
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.pdb
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.genruntimeconfig.cache
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.exe
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.deps.json
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.runtimeconfig.json
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.runtimeconfig.dev.json
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.dll
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.pdb
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.csproj.AssemblyReference.cache
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.GeneratedMSBuildEditorConfig.editorconfig
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.AssemblyInfoInputs.cache
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.AssemblyInfo.cs
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.csproj.CoreCompileInputs.cache
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.dll
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.pdb
+X:\Visual Studio\University\21-22\Assessment 3\Assessment3A\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.genruntimeconfig.cache
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.exe
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.deps.json
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.runtimeconfig.json
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.runtimeconfig.dev.json
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.dll
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.pdb
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.csproj.AssemblyReference.cache
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.GeneratedMSBuildEditorConfig.editorconfig
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.AssemblyInfoInputs.cache
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.AssemblyInfo.cs
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.csproj.CoreCompileInputs.cache
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.dll
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.pdb
+X:\Visual Studio\University\21-22\ExerciseWeek3\TaskA\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.genruntimeconfig.cache

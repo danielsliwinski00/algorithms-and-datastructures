@@ -1,0 +1,30 @@
+X:\Visual Studio\University\21-22\Assessment 3\Assessment 2\Assessment 2\obj\Debug\Assessment 2.csproj.AssemblyReference.cache
+X:\Visual Studio\University\21-22\Assessment 3\Assessment 2\Assessment 2\obj\Debug\Assessment_2.Form1.resources
+X:\Visual Studio\University\21-22\Assessment 3\Assessment 2\Assessment 2\obj\Debug\Assessment_2.Properties.Resources.resources
+X:\Visual Studio\University\21-22\Assessment 3\Assessment 2\Assessment 2\obj\Debug\Assessment 2.csproj.GenerateResource.cache
+X:\Visual Studio\University\21-22\Assessment 3\Assessment 2\Assessment 2\obj\Debug\Assessment 2.csproj.CoreCompileInputs.cache
+X:\Visual Studio\University\21-22\Assessment 3\Assessment 2\Assessment 2\bin\Debug\Assessment 2.exe.config
+X:\Visual Studio\University\21-22\Assessment 3\Assessment 2\Assessment 2\bin\Debug\Assessment 2.exe
+X:\Visual Studio\University\21-22\Assessment 3\Assessment 2\Assessment 2\bin\Debug\Assessment 2.pdb
+X:\Visual Studio\University\21-22\Assessment 3\Assessment 2\Assessment 2\obj\Debug\Assessment 2.exe
+X:\Visual Studio\University\21-22\Assessment 3\Assessment 2\Assessment 2\obj\Debug\Assessment 2.pdb
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskB\Assessment 2\obj\Debug\Assessment 2.csproj.AssemblyReference.cache
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskB\Assessment 2\obj\Debug\Assessment_2.Form1.resources
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskB\Assessment 2\obj\Debug\Assessment_2.Properties.Resources.resources
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskB\Assessment 2\obj\Debug\Assessment 2.csproj.GenerateResource.cache
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskB\Assessment 2\obj\Debug\Assessment 2.csproj.CoreCompileInputs.cache
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskB\Assessment 2\obj\Debug\Assessment 2.exe
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskB\Assessment 2\obj\Debug\Assessment 2.pdb
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskB\Assessment 2\bin\Debug\Assessment 2.exe.config
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskB\Assessment 2\bin\Debug\Assessment 2.exe
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskB\Assessment 2\bin\Debug\Assessment 2.pdb
+C:\Users\Daniel Sliwinski\Desktop\Assessment\ExerciseWeek1_2\TaskB\Task\Assessment 2\bin\Debug\Assessment 2.exe.config
+C:\Users\Daniel Sliwinski\Desktop\Assessment\ExerciseWeek1_2\TaskB\Task\Assessment 2\bin\Debug\Assessment 2.exe
+C:\Users\Daniel Sliwinski\Desktop\Assessment\ExerciseWeek1_2\TaskB\Task\Assessment 2\bin\Debug\Assessment 2.pdb
+C:\Users\Daniel Sliwinski\Desktop\Assessment\ExerciseWeek1_2\TaskB\Task\Assessment 2\obj\Debug\Assessment 2.csproj.AssemblyReference.cache
+C:\Users\Daniel Sliwinski\Desktop\Assessment\ExerciseWeek1_2\TaskB\Task\Assessment 2\obj\Debug\Assessment_2.Form1.resources
+C:\Users\Daniel Sliwinski\Desktop\Assessment\ExerciseWeek1_2\TaskB\Task\Assessment 2\obj\Debug\Assessment_2.Properties.Resources.resources
+C:\Users\Daniel Sliwinski\Desktop\Assessment\ExerciseWeek1_2\TaskB\Task\Assessment 2\obj\Debug\Assessment 2.csproj.GenerateResource.cache
+C:\Users\Daniel Sliwinski\Desktop\Assessment\ExerciseWeek1_2\TaskB\Task\Assessment 2\obj\Debug\Assessment 2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Sliwinski\Desktop\Assessment\ExerciseWeek1_2\TaskB\Task\Assessment 2\obj\Debug\Assessment 2.exe
+C:\Users\Daniel Sliwinski\Desktop\Assessment\ExerciseWeek1_2\TaskB\Task\Assessment 2\obj\Debug\Assessment 2.pdb

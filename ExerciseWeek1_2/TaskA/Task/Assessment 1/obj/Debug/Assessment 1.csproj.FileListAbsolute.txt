@@ -1,0 +1,20 @@
+X:\Visual Studio\University\21-22\Assessment 1\Assessment 1\bin\Debug\Assessment 1.exe.config
+X:\Visual Studio\University\21-22\Assessment 1\Assessment 1\bin\Debug\Assessment 1.exe
+X:\Visual Studio\University\21-22\Assessment 1\Assessment 1\bin\Debug\Assessment 1.pdb
+X:\Visual Studio\University\21-22\Assessment 1\Assessment 1\obj\Debug\Assessment 1.csproj.AssemblyReference.cache
+X:\Visual Studio\University\21-22\Assessment 1\Assessment 1\obj\Debug\Assessment_1.Form1.resources
+X:\Visual Studio\University\21-22\Assessment 1\Assessment 1\obj\Debug\Assessment_1.Properties.Resources.resources
+X:\Visual Studio\University\21-22\Assessment 1\Assessment 1\obj\Debug\Assessment 1.csproj.GenerateResource.cache
+X:\Visual Studio\University\21-22\Assessment 1\Assessment 1\obj\Debug\Assessment 1.csproj.CoreCompileInputs.cache
+X:\Visual Studio\University\21-22\Assessment 1\Assessment 1\obj\Debug\Assessment 1.exe
+X:\Visual Studio\University\21-22\Assessment 1\Assessment 1\obj\Debug\Assessment 1.pdb
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskA\Assessment 1\bin\Debug\Assessment 1.exe.config
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskA\Assessment 1\bin\Debug\Assessment 1.exe
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskA\Assessment 1\bin\Debug\Assessment 1.pdb
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskA\Assessment 1\obj\Debug\Assessment 1.csproj.AssemblyReference.cache
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskA\Assessment 1\obj\Debug\Assessment_1.Form1.resources
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskA\Assessment 1\obj\Debug\Assessment_1.Properties.Resources.resources
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskA\Assessment 1\obj\Debug\Assessment 1.csproj.GenerateResource.cache
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskA\Assessment 1\obj\Debug\Assessment 1.csproj.CoreCompileInputs.cache
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskA\Assessment 1\obj\Debug\Assessment 1.exe
+X:\Visual Studio\University\21-22\ExerciseWeek1_2\TaskA\Assessment 1\obj\Debug\Assessment 1.pdb

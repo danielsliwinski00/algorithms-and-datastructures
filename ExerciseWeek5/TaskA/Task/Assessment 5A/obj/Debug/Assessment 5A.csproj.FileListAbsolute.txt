@@ -1,0 +1,20 @@
+X:\Visual Studio\University\21-22\Assessment 5\Assessment5A\Assessment 5A\Assessment 5A\bin\Debug\Assessment 5A.exe.config
+X:\Visual Studio\University\21-22\Assessment 5\Assessment5A\Assessment 5A\Assessment 5A\bin\Debug\Assessment 5A.exe
+X:\Visual Studio\University\21-22\Assessment 5\Assessment5A\Assessment 5A\Assessment 5A\bin\Debug\Assessment 5A.pdb
+X:\Visual Studio\University\21-22\Assessment 5\Assessment5A\Assessment 5A\Assessment 5A\obj\Debug\Assessment 5A.csproj.AssemblyReference.cache
+X:\Visual Studio\University\21-22\Assessment 5\Assessment5A\Assessment 5A\Assessment 5A\obj\Debug\Assessment_5A.Form1.resources
+X:\Visual Studio\University\21-22\Assessment 5\Assessment5A\Assessment 5A\Assessment 5A\obj\Debug\Assessment_5A.Properties.Resources.resources
+X:\Visual Studio\University\21-22\Assessment 5\Assessment5A\Assessment 5A\Assessment 5A\obj\Debug\Assessment 5A.csproj.GenerateResource.cache
+X:\Visual Studio\University\21-22\Assessment 5\Assessment5A\Assessment 5A\Assessment 5A\obj\Debug\Assessment 5A.csproj.CoreCompileInputs.cache
+X:\Visual Studio\University\21-22\Assessment 5\Assessment5A\Assessment 5A\Assessment 5A\obj\Debug\Assessment 5A.exe
+X:\Visual Studio\University\21-22\Assessment 5\Assessment5A\Assessment 5A\Assessment 5A\obj\Debug\Assessment 5A.pdb
+X:\Visual Studio\University\21-22\ExerciseWeek5\TaskA\Assessment 5A\bin\Debug\Assessment 5A.exe.config
+X:\Visual Studio\University\21-22\ExerciseWeek5\TaskA\Assessment 5A\bin\Debug\Assessment 5A.exe
+X:\Visual Studio\University\21-22\ExerciseWeek5\TaskA\Assessment 5A\bin\Debug\Assessment 5A.pdb
+X:\Visual Studio\University\21-22\ExerciseWeek5\TaskA\Assessment 5A\obj\Debug\Assessment 5A.csproj.AssemblyReference.cache
+X:\Visual Studio\University\21-22\ExerciseWeek5\TaskA\Assessment 5A\obj\Debug\Assessment_5A.Form1.resources
+X:\Visual Studio\University\21-22\ExerciseWeek5\TaskA\Assessment 5A\obj\Debug\Assessment_5A.Properties.Resources.resources
+X:\Visual Studio\University\21-22\ExerciseWeek5\TaskA\Assessment 5A\obj\Debug\Assessment 5A.csproj.GenerateResource.cache
+X:\Visual Studio\University\21-22\ExerciseWeek5\TaskA\Assessment 5A\obj\Debug\Assessment 5A.csproj.CoreCompileInputs.cache
+X:\Visual Studio\University\21-22\ExerciseWeek5\TaskA\Assessment 5A\obj\Debug\Assessment 5A.exe
+X:\Visual Studio\University\21-22\ExerciseWeek5\TaskA\Assessment 5A\obj\Debug\Assessment 5A.pdb

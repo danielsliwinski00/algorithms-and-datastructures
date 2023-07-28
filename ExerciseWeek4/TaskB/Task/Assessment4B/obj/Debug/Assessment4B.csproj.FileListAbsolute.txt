@@ -1,0 +1,20 @@
+X:\Visual Studio\University\21-22\Assessment 4\Assessment4B\Assessment4B\Assessment4B\bin\Debug\Assessment4B.exe.config
+X:\Visual Studio\University\21-22\Assessment 4\Assessment4B\Assessment4B\Assessment4B\bin\Debug\Assessment4B.exe
+X:\Visual Studio\University\21-22\Assessment 4\Assessment4B\Assessment4B\Assessment4B\bin\Debug\Assessment4B.pdb
+X:\Visual Studio\University\21-22\Assessment 4\Assessment4B\Assessment4B\Assessment4B\obj\Debug\Assessment4B.csproj.AssemblyReference.cache
+X:\Visual Studio\University\21-22\Assessment 4\Assessment4B\Assessment4B\Assessment4B\obj\Debug\Assessment4B.Form1.resources
+X:\Visual Studio\University\21-22\Assessment 4\Assessment4B\Assessment4B\Assessment4B\obj\Debug\Assessment4B.Properties.Resources.resources
+X:\Visual Studio\University\21-22\Assessment 4\Assessment4B\Assessment4B\Assessment4B\obj\Debug\Assessment4B.csproj.GenerateResource.cache
+X:\Visual Studio\University\21-22\Assessment 4\Assessment4B\Assessment4B\Assessment4B\obj\Debug\Assessment4B.csproj.CoreCompileInputs.cache
+X:\Visual Studio\University\21-22\Assessment 4\Assessment4B\Assessment4B\Assessment4B\obj\Debug\Assessment4B.exe
+X:\Visual Studio\University\21-22\Assessment 4\Assessment4B\Assessment4B\Assessment4B\obj\Debug\Assessment4B.pdb
+X:\Visual Studio\University\21-22\ExerciseWeek4\TaskB\Assessment4B\obj\Debug\Assessment4B.csproj.AssemblyReference.cache
+X:\Visual Studio\University\21-22\ExerciseWeek4\TaskB\Assessment4B\obj\Debug\Assessment4B.Form1.resources
+X:\Visual Studio\University\21-22\ExerciseWeek4\TaskB\Assessment4B\obj\Debug\Assessment4B.Properties.Resources.resources
+X:\Visual Studio\University\21-22\ExerciseWeek4\TaskB\Assessment4B\obj\Debug\Assessment4B.csproj.GenerateResource.cache
+X:\Visual Studio\University\21-22\ExerciseWeek4\TaskB\Assessment4B\obj\Debug\Assessment4B.csproj.CoreCompileInputs.cache
+X:\Visual Studio\University\21-22\ExerciseWeek4\TaskB\Assessment4B\obj\Debug\Assessment4B.exe
+X:\Visual Studio\University\21-22\ExerciseWeek4\TaskB\Assessment4B\obj\Debug\Assessment4B.pdb
+X:\Visual Studio\University\21-22\ExerciseWeek4\TaskB\Assessment4B\bin\Debug\Assessment4B.exe.config
+X:\Visual Studio\University\21-22\ExerciseWeek4\TaskB\Assessment4B\bin\Debug\Assessment4B.exe
+X:\Visual Studio\University\21-22\ExerciseWeek4\TaskB\Assessment4B\bin\Debug\Assessment4B.pdb
